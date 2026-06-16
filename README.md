@@ -4,5 +4,6 @@
 [โปรแกรมคำนวณเงินเดือนสุทธิ](salary.py)  
 
 [โปรแกรมคำนวณ BMI](bmi.py)  
-file:///C:/Users/STD/Downloads/1000060451.jpg
+<img width="4000" height="2250" alt="image" src="https://github.com/user-attachments/assets/7b2c8c54-f5cb-41d5-8d17-44fcee488bc2" />
+
 
